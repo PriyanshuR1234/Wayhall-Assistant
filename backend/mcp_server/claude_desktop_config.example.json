@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "wayhall-municipal": {
+      "command": "/Users/priyanshurajput/projects/RagChatbot/backend/.venv/bin/python",
+      "args": ["-m", "mcp_server.server"],
+      "cwd": "/Users/priyanshurajput/projects/RagChatbot/backend",
+      "env": {
+        "PYTHONPATH": "/Users/priyanshurajput/projects/RagChatbot/backend"
+      }
+    }
+  }
+}
